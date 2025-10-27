@@ -26,7 +26,7 @@ tarjeta.addEventListener('click', () => {
 btnAbrirFormulario.addEventListener('click', () => {
 	btnAbrirFormulario.classList.toggle('active');
 	formulario.classList.toggle('active');
-});
+}); 
 
 for(let i = 1; i <= 12; i++){
 	let opcion = document.createElement('option');
