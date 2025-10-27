@@ -15,7 +15,7 @@ public class Producto {
     private String descripcion;
     private Double precio;
     private Integer stock;
-    private String estado;
+    private String estado;  
     private String marca;
     private String imagen;
     private String tipo;
