@@ -1,0 +1,46 @@
+/**
+ *
+ * @author Starlord
+ */
+.container{
+    border-radius: 50% !important;
+    margin-left: 290px !important;
+    padding: 20px !important;
+    margin-right: 50px;
+    transition: margin-left 0.5s ease !important;
+    width: 80% !important;
+}
+
+@media (max-width: 600px){
+    .container{
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+}
+
+.row{
+    margin: 2em !important;
+}
+
+.dt-paging {
+    text-align: right;
+}
+
+.pagination {
+    display: inline-flex;
+    justify-content: center;
+    margin-bottom: 20px !important;
+}
+
+.page-link {
+    margin-left: 5px;
+}
+.top{
+    display: inline-flex;
+}
+
+.imagenMenuLogin{
+    height: 2px !important;
+    width: 2px !important;
+}
+

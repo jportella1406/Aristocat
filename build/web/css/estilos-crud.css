@@ -1,0 +1,17 @@
+/**
+ *
+ * @author Starlord
+ */
+footer {
+    position: fixed !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    background-color: #000 !important;
+    height: 60px !important;
+}
+
+footer p {
+    text-align: center !important;
+    line-height: 60px !important;
+    color: #fff !important;
+}
